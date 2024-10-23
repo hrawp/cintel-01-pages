@@ -1,6 +1,6 @@
 # The Bad Lands
 
-## Bad Lands Mountain Goat
+## Bad Lands Mountain Goat 
 
 ### We saw this in the Bad Lands of South Dakota.
 
