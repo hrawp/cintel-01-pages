@@ -1,23 +1,10 @@
-# My Website Title 
+# The Bad Lands
 
-My first website using Markdown and GitHub Pages.
- 
-## Links (Two hashes is a second level heading) 
+## Bad Lands Montain Goat
 
-Here's a clickable link: [https://chatgpt.com/]
-
-## Images
-
-Images look like links except with an exclamation directly in front
+We saw this in the Bad Lands of South Dakota.
 
 ![Saw Mountian Goat](IMG_3980.JPG)
 
-## Reminders
 
-Use a dash space for unordered lists
-
-- Spaces matter
-
-- Spelling matters
-
-- Capitalization matters
+We saw many layers of rock stretching deep into valleys and high peaks of rock
