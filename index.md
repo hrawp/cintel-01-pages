@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 Images look like links except with an exclamation directly in front
 
-![Saw Mountian Goat ](IMG_3980.JPG)
+![Saw Mountian Goat](IMG_3980.JPG)
 
 ## Reminders
 
